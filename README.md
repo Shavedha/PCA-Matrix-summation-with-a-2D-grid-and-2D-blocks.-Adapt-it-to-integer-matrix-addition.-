@@ -14,7 +14,7 @@ To implement Matrix summation with 2D grids and blocks.
 9. Reset the GPU device
 ## Program:
 ### Float Matrix Addition
-```python
+```c
 #include "../common/common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
@@ -188,7 +188,7 @@ int main(int argc, char **argv)
 
 ```
 ### Integer Matrix Addition
-```python
+```c
 #include "common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>

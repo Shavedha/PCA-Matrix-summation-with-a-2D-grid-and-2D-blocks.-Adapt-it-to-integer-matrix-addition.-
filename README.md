@@ -13,6 +13,8 @@ To implement Matrix summation with 2D grids and blocks.
 8. Free allocated memory
 9. Reset the GPU device
 ## Program:
+### Developed By: Y SHAVEDHA
+### Register No.: 212221230095
 ### Float Matrix Addition
 ```c
 #include "../common/common.h"
